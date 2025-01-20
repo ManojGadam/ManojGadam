@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Manoj Gadamchetty
-- Studied Computer Science at Purdue University, United States
+- 👨‍🎓 I've Studied Computer Science at Purdue University, United States
 - 🔭 I’m currently working on [CodeJournal](https://github.com/ManojGadam/CodeJournal)
 
 
